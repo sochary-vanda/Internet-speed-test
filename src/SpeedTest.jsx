@@ -11,7 +11,7 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 
-const API_BASE = "";
+const API_BASE = "https://speed-test-api.onrender.com";
 
 /* ─── Helpers ───────────────────────────────────────────────────────────── */
 
